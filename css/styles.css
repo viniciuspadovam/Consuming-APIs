@@ -1,0 +1,28 @@
+body {
+    background: #f1f5f8 !important;
+}
+select, body {
+    font-family: 'Archivo', sans-serif !important;
+}
+.container {
+    background: #fff;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+.form-region-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+select {
+    margin-top: 5em !important;
+    margin-bottom: 5em !important;
+    width: 300px;
+}
+button {
+    font-family: 'Poppins', sans-serif !important;
+}
+.btn-indigo{
+    background: #8540F5 !important;
+}
